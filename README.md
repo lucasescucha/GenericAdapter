@@ -1,0 +1,4 @@
+GenericAdapter
+==============
+
+Adaptador genérico
